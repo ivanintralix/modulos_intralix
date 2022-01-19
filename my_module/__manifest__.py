@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "my_module Intralix prueba",
+    'name': "my_module Intralix Cambio para git",
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
